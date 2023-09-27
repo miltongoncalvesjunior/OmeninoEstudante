@@ -267,3 +267,4 @@ C:\MiltonGjunior\Omenino\obj\Debug\net7.0\refint\Omenino.dll
 C:\MiltonGjunior\Omenino\obj\Debug\net7.0\Omenino.pdb
 C:\MiltonGjunior\Omenino\obj\Debug\net7.0\Omenino.genruntimeconfig.cache
 C:\MiltonGjunior\Omenino\obj\Debug\net7.0\ref\Omenino.dll
+C:\MiltonGjunior\Omenino\obj\Debug\net7.0\Omenino.sourcelink.json
